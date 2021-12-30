@@ -93,3 +93,6 @@ gem 'jquery-ui-rails'
 gem "font-awesome-rails"
 
 gem 'yarn', '~> 0.1.1'
+
+gem 'terser', '~> 1.1', '>= 1.1.1'
+
